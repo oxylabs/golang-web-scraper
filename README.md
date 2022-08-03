@@ -12,7 +12,7 @@ Golang, or Go, is designed to leverage the static typing and run-time efficiency
 
 This article will guide you an overview of the process of writing a fast and efficient Golang web scraper.
 
-For a detailed explanation, [see this blog post](https://oxylabs.io/blog/golang-web-scraper). 
+For a detailed explanation, [see this blog post](https://oxy.yt/IrPZ). 
 
 ## Installing Go
 
@@ -168,4 +168,4 @@ go run books.go
 
 
 
-If you wish to find out more about web scraping with Go, see our [blog post](https://oxylabs.io/blog/golang-web-scraper).
+If you wish to find out more about web scraping with Go, see our [blog post](https://oxy.yt/IrPZ).
